@@ -104,17 +104,17 @@ aside {
     background-color: #2589bd;
 }
 
-aside div {
+aside .benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside div h3 {
+aside .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside div img {
+aside .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
